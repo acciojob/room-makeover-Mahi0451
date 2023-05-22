@@ -2,5 +2,8 @@
 /* Your CSS Code here. */
 .favourite-color{
 	color:red;
+	font-style:italic;
+	font-size:30px;
+	font-weight:400;
 
 }
